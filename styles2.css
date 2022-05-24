@@ -1,0 +1,58 @@
+
+.top {
+    background-color: #CFE1CD;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 18px;
+
+
+}
+
+.change {
+    color: black;
+    background-image: url(images/city.jpg);
+background-size: 1400px;
+}
+
+
+.title {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.wel {
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+}
+
+.use {
+    padding-left: 30px;
+}
+
+.col {
+     font-family: 'PT Sans Narrow', sans-serif;
+     text-align: center;
+
+}
+
+.container {
+    padding-bottom: 10px;
+
+}
+
+.what {
+    padding-top: 10px;
+}
+
+.footer {
+     font-family: 'PT Sans Narrow', sans-serif;
+         text-align: center;
+            background-color: #CFE1CD;
+}
+
+.sources {
+    font-family: 'PT Sans Narrow', sans-serif;
+         text-align: center;
+            background-color: #CFE1CD;
+}

@@ -1,0 +1,80 @@
+.heading {
+    max-height: 400px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+.top {
+    background-color: #CFE1CD;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+
+}
+
+
+.nav-link {
+color: #2E95AB;
+}
+
+.city {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+border-radius: 25px;
+
+
+}
+
+
+
+.color {
+    background-color: #CFE1CD;
+}
+
+.info {
+    padding-top: 25px;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+
+}
+
+
+.bottom {
+    background-color: #CFE1CD;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.links {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.footer {
+    padding-top:60px;
+
+
+}
+
+.sub {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+
+
+.sources {
+    text-align: center;
+    padding-right: 45px;
+
+
+}
+
+
+.card {
+    height: 50%;
+}

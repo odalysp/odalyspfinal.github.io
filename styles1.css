@@ -1,0 +1,78 @@
+.title {
+	text-align: center;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.top {
+	background-color: #CFE1CD;
+}
+
+.intro {
+	padding-right: 140px;
+	padding-left: 140px;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.topic {
+	text-align: center;
+	font-family: 'PT Sans Narrow', sans-serif;
+	background-color: #CFE1CD;
+
+}
+
+.innn {
+background-image: url(images/city.jpg);
+background-size: 1400px;
+}
+
+.nav-link {
+color: #2E95AB;
+}
+
+
+.col {
+	border: solid;
+	padding-top: 15px;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.nav-item {
+    padding: 10px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.rowone {
+	padding: 30px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	background-image: url(images/city.jpg);
+background-size: 150px;
+}
+
+
+.rowtwo {
+	padding: 30px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	background-image: url(images/city.jpg);
+background-size: 150px;
+}
+
+.rowthree {
+	justify-content: center;
+	font-family: 'PT Sans Narrow', sans-serif;
+	background-image: url(images/city.jpg);
+background-size: 150px;
+}
+
+
+.foot{
+	padding-bottom: 10px;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
+
+
+.sources {
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-align: center;
+}
